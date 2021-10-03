@@ -1,8 +1,8 @@
 {
-    "name": "2077-theme",
-    "displayName": "2077 theme",
-    "publisher": "Endormi",
-    "description": "Cyberpunk 2077 inspired theme",
+    "name": "cosmicsarthak-neon",
+    "displayName": "cosmicsarthak Neon theme",
+    "publisher": "cosmicsarthak",
+    "description": "My personalised version of '2077 theme' theme",
     "version": "1.5.3",
     "engines": {
         "vscode": "^1.17.0"
@@ -12,13 +12,13 @@
     ],
     "repository": {
 	"type": "git",
-        "url": "https://github.com/endormi/vscode-2077-theme"
+        "url": "https://github.com/cosmicsarthak/cosmicsarthak-neon-theme"	
     },
     "icon": "image/icon.PNG",
     "contributes": {
         "themes": [
             {
-                "label": "2077",
+                "label": "cosmicsarthak Neon",
                 "uiTheme": "vs-dark",
                 "path": "./theme/2077 theme-color-theme.json"
             }
