@@ -1,27 +1,27 @@
 {
-    "name": "cosmicsarthak-neon",
-    "displayName": "cosmicsarthak Neon theme",
-    "publisher": "cosmicsarthak",
-    "description": "My personalised version of '2077 theme' theme",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.17.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-	"type": "git",
-        "url": "https://github.com/cosmicsarthak/cosmicsarthak-neon-theme"	
-    },
-    "icon": "image/icon.PNG",
-    "contributes": {
-        "themes": [
-            {
-                "label": "cosmicsarthak Neon",
-                "uiTheme": "vs-dark",
-                "path": "./theme/cosmicsarthak-neon-color-theme.json"
-            }
-        ]
-    }
+  "name": "cosmicsarthak-neon-theme",
+  "displayName": "cosmicsarthak Neon theme",
+  "publisher": "cosmicsarthak",
+  "description": "My personalised version of '2077 theme' theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmicsarthak/cosmicsarthak-neon-theme"
+  },
+  "icon": "image/icon.PNG",
+  "contributes": {
+    "themes": [
+      {
+        "label": "cosmicsarthak Neon",
+        "uiTheme": "vs-dark",
+        "path": "./theme/cosmicsarthak-neon-color-theme.json"
+      }
+    ]
+  }
 }
