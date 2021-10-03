@@ -1,15 +1,8 @@
 <h1 align="center">
-  2077 Theme
+  cosmicsarthak Neon Theme
 </h1>
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/endormi.2077-theme.svg?color=purple&label=Marketplace%20version&style=popout-square" alt="version" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme#review-details">
-    <img src="https://img.shields.io/visual-studio-marketplace/stars/endormi.2077-theme.svg?color=yellow&label=Rating&style=popout-square" alt="stars" />
-  </a>
-</p>
+## My Personalised Cyberpunk Neon Theme based on [2077 theme](https://github.com/endormi/vscode-2077-theme)
 
 <p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> inspired theme.</p>
 
