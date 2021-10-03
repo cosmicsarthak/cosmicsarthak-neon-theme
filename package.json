@@ -3,7 +3,7 @@
     "displayName": "cosmicsarthak Neon theme",
     "publisher": "cosmicsarthak",
     "description": "My personalised version of '2077 theme' theme",
-    "version": "1.5.3",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.17.0"
     },
