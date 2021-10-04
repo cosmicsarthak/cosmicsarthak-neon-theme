@@ -553,9 +553,14 @@
     },
     {
       "name": "Markdown code block",
-      "scope": ["fenced_code.block.language", "markup.inline.raw.markdown"],
+      "scope": [
+        "fenced_code.block.language",
+        "markup.inline.raw.markdown",
+        "markup.fenced_code.block.markdown",
+        "text.html.markdown.jsx"
+      ],
       "settings": {
-        "foreground": "#ff2e97"
+        "foreground": "#fd6666"
       }
     },
     {
@@ -651,8 +656,8 @@
     "editorGroup.dropBackground": "#03153b",
     "editorGroupHeader.noTabsBackground": "#03163f",
     "editorGroupHeader.tabsBackground": "#030d22",
-    "tab.activeBackground": "#1d1641",
-    "tab.activeForeground": "#f9faff",
+    "tab.activeBackground": "#ff25ed57",
+    "tab.activeForeground": "#f9faff", // color option -> #00fff2
     "tab.inactiveBackground": "#141138",
     "tab.inactiveForeground": "#3e8efd",
     "tab.border": "#171033",
@@ -662,13 +667,15 @@
     "sideBarSectionHeader.background": "#04112e",
     "sideBarSectionHeader.foreground": "#1f9aff",
 
-    // Lists & Trees
+    // Lists & Trees    ==> Explorer Section
     "list.activeSelectionBackground": "#073170",
-    "list.activeSelectionForeground": "#ffffff", // Sarthak changed
+    "list.activeSelectionForeground": "#26ff00",
     "list.dropBackground": "#063475",
     "list.focusBackground": "#06306e",
     "list.hoverBackground": "#0a2f66",
-    "list.inactiveSelectionBackground": "#161130",
+    "list.inactiveSelectionBackground": "#ff25ed57",
+    "list.inactiveSelectionForeground": "#00fff2",
+    // "list.inactiveFocusOutline": "#b60672",
     "list.errorForeground": "#b60672",
     "list.warningForeground": "#992293",
 
@@ -728,21 +735,21 @@
 
     // Integrated Terminal
     "terminal.background": "#0d0936",
-    "terminal.foreground": "#e4eeff",
+    "terminal.foreground": "#EA00D9", // terminal text color options -> #00fff2 #26ff00
     "terminal.ansiBlack": "#3a1b75",
     "terminal.ansiRed": "#ee1682",
     "terminal.ansiGreen": "#06ad00",
     "terminal.ansiYellow": "#ffd400",
     "terminal.ansiBlue": "#3787d6",
-    "terminal.ansiMagenta": "#EA00D9",
+    "terminal.ansiMagenta": "#26ff00",
     "terminal.ansiCyan": "#0ab2fa",
-    "terminal.ansiWhite": "#f2f8ff",
+    "terminal.ansiWhite": "#fd6666",
     "terminal.ansiBrightBlack": "#5c6d751a",
     "terminal.ansiBrightRed": "#ff2e97",
-    "terminal.ansiBrightGreen": "#3dd69c",
-    "terminal.ansiBrightYellow": "#ffd400",
+    "terminal.ansiBrightGreen": "#00fff2",
+    "terminal.ansiBrightYellow": "#fd6666",
     "terminal.ansiBrightBlue": "#5994CE",
-    "terminal.ansiBrightMagenta": "#EA00D9",
+    "terminal.ansiBrightMagenta": "#ffd400",
     "terminal.ansiBrightCyan": "#4bc5fa",
     "terminal.ansiBrightWhite": "#ee0077"
   }
