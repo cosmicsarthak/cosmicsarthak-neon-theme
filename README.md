@@ -20,6 +20,7 @@
 </h2>
 
 - Javascript Preview
+<<<<<<< HEAD
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73431135/135931370-64bc2112-2fff-4c78-9443-7646d06a5ef9.png" alt="Javascript Preview">
 </p>
@@ -32,6 +33,25 @@
 - Java Preview
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73431135/135931387-6c453f88-db34-4655-b3cc-2bd84f1a783d.png" alt="Java Preview">
+=======
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135931370-64bc2112-2fff-4c78-9443-7646d06a5ef9.png" alt="Javascript Preview">
+</p>
+
+- C++ & Teminal
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135931379-3b94af1b-4d01-4301-bb0b-7133ac86a656.png" alt="C++ & Teminal Preview">
+</p>
+
+- Java Preview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135931387-6c453f88-db34-4655-b3cc-2bd84f1a783d.png" alt="Java Preview">
+</p>
+
+- C++ Preview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135931395-9b9e90ea-c9aa-46dd-902e-47a5fed4f8d3.png" alt="C++ Preview">
+>>>>>>> 6471a5791c8f55cdfb788c5c0c00f17eca98bf74
 </p>
 
 - C++ Preview
