@@ -23,12 +23,13 @@
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39559256/82760050-ce31a900-9df9-11ea-8cbb-c499b285fd58.PNG" alt="Preview">
+<img src="https://user-images.githubusercontent.com/73431135/135928380-d197145d-fe99-4118-88b7-3b7eae2b454f.png" alt="Preview">
 </p>
 
-<!-- <p align="center">
-<img src="image/Screenshot_online.cpp%20-%20Java%20tests%20-%20Visual%20Studio%20Code_1.png" alt="Preview">
-</p> -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135928408-eda3405b-7384-4129-9ae7-737941577cbb.png" alt="Preview">
+</p>
+
 
 ## Credits
 
