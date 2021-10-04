@@ -4,8 +4,6 @@
 
 ## My Personalised Cyberpunk Neon Theme which lessens the eye strain
 
-<p align="center"><a href="https://www.cyberpunk.net">Neon</a> theme.</p>
-
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -14,22 +12,32 @@
 4. Click **Reload** to reload your editor
 5. Code > Preferences > Color Theme > **cosmicsarthak Neon**
 
-<!--
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=cosmicsarthak.cosmicsarthak-Neon-theme)
-- [Open VSX Registry](https://open-vsx.org/extension/Endormi/2077-theme) -->
+- [Open VSX Registry](https://open-vsx.org/extension/cosmicsarthak/cosmicsarthak-neon-theme)
 
 <h2 align="center">
   Preview Image
 </h2>
 
+- Javascript Preview
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73431135/135928380-d197145d-fe99-4118-88b7-3b7eae2b454f.png" alt="Preview">
+<img src="https://user-images.githubusercontent.com/73431135/135931370-64bc2112-2fff-4c78-9443-7646d06a5ef9.png" alt="Javascript Preview">
 </p>
 
+- C++ & Teminal
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73431135/135928408-eda3405b-7384-4129-9ae7-737941577cbb.png" alt="Preview">
+<img src="https://user-images.githubusercontent.com/73431135/135931379-3b94af1b-4d01-4301-bb0b-7133ac86a656.png" alt="C++ & Teminal Preview">
 </p>
 
+- Java Preview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135931387-6c453f88-db34-4655-b3cc-2bd84f1a783d.png" alt="Java Preview">
+</p>
+
+- C++ Preview
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73431135/135931395-9b9e90ea-c9aa-46dd-902e-47a5fed4f8d3.png" alt="C++ Preview">
+</p>
 
 ## Credits
 
