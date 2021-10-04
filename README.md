@@ -2,9 +2,9 @@
   cosmicsarthak Neon Theme
 </h1>
 
-## My Personalised Cyberpunk Neon Theme based on [2077 theme](https://github.com/endormi/vscode-2077-theme)
+## My Personalised Cyberpunk Neon Theme which lessens the eye strain
 
-<p align="center"><a href="https://www.cyberpunk.net">Cyberpunk 2077</a> inspired theme.</p>
+<p align="center"><a href="https://www.cyberpunk.net">Neon</a> theme.</p>
 
 ## Installation
 
@@ -12,10 +12,11 @@
 2. Search for `2077 theme` - find the one by **Endormi**.
 3. Click **Install** to install it.
 4. Click **Reload** to reload your editor
-5. Code > Preferences > Color Theme > **2077**
+5. Code > Preferences > Color Theme > **cosmicsarthak Neon**
 
-- [Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
-- [Open VSX Registry](https://open-vsx.org/extension/Endormi/2077-theme)
+<!--
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=cosmicsarthak.cosmicsarthak-Neon-theme)
+- [Open VSX Registry](https://open-vsx.org/extension/Endormi/2077-theme) -->
 
 <h2 align="center">
   Preview Image
@@ -25,12 +26,12 @@
 <img src="https://user-images.githubusercontent.com/39559256/82760050-ce31a900-9df9-11ea-8cbb-c499b285fd58.PNG" alt="Preview">
 </p>
 
+<!-- <p align="center">
+<img src="image/Screenshot_online.cpp%20-%20Java%20tests%20-%20Visual%20Studio%20Code_1.png" alt="Preview">
+</p> -->
+
 ## Credits
 
-Inspired by [samrap's](https://github.com/samrap) awesome [outrun](https://github.com/samrap/outrun-theme-vscode) theme. I edited the theme quite significantly to follow the Cyberpunk 2077 color palette.
-
-If any issues occur or you have ideas for new improvements, please open up a new [issue](https://github.com/endormi/vscode-2077-theme/issues) not a [PR](https://github.com/endormi/vscode-2077-theme/issues/17).
-
-[Icon](https://www.freepik.com/free-vector/night-city-skyline-background_1276620.htm) used.
+Inspired by [2077 theme](https://github.com/endormi/vscode-2077-theme)
 
 **Enjoy!**
