@@ -16,7 +16,7 @@
 - [Open VSX Registry](https://open-vsx.org/extension/cosmicsarthak/cosmicsarthak-neon-theme)
 
 <h2 align="center">
-  Preview Image
+  Preview Images
 </h2>
 
 - Javascript Preview
