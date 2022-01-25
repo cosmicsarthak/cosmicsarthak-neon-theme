@@ -1,26 +1,65 @@
 {
   "name": "cosmicsarthak-neon-theme",
-  "displayName": "cosmicsarthak Neon theme",
+  "displayName": "cosmicsarthak Neon Dark",
+  "description": "Colourful Neon Dark Theme to lower eye strain for night owls, youth devs and workaholics ✨",
+  "version": "3.0.2",
   "publisher": "cosmicsarthak",
-  "description": "Colourful Neon Theme to lower eye strain  by cosmicsarthak",
-  "version": "2.0.1",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmicsarthak/cosmicsarthak-neon-theme"
+  },
+  "keywords": [
+    "Theme",
+    "cosmicsarthak",
+    "neon",
+    "eye strain",
+    "Dark Theme",
+    "Light Theme",
+    "Night Owl",
+    "Night Theme",
+    "Light Owl",
+    "Snow Owl",
+    "Early Bird",
+    "Hustler",
+    "workaholic",
+    "Accessible Theme"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.17.0"
   },
   "categories": [
     "Themes"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cosmicsarthak/cosmicsarthak-neon-theme"
-  },
-  "icon": "image/icon.jpg",
+  "icon": "skull-logo.jpg",
   "contributes": {
     "themes": [
       {
+        "label": "cosmicsarthak Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmicsarthak-night.json"
+      },
+      {
         "label": "cosmicsarthak Neon",
         "uiTheme": "vs-dark",
-        "path": "./theme/cosmicsarthak-neon-color-theme.json"
+        "path": "./themes/cosmicsarthak-neon-color-theme.json"
+      },
+      {
+        "label": "cosmicsarthak Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmicsarthak-night-owl.json"
+      },
+      {
+        "label": "cosmicsarthak Light",
+        "uiTheme": "vs",
+        "path": "./themes/cosmicsarthak-light.jsonc"
       }
     ]
   }
