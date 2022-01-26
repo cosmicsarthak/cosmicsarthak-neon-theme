@@ -2,7 +2,7 @@
   "name": "cosmicsarthak-neon-theme",
   "displayName": "cosmicsarthak Neon Dark",
   "description": "Colourful Neon Dark Theme to lower eye strain for night owls, youth devs and workaholics ✨",
-  "version": "3.0.4",
+  "version": "3.1.0",
   "publisher": "cosmicsarthak",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -23,7 +23,8 @@
     "Early Bird",
     "Hustler",
     "workaholic",
-    "Accessible Theme"
+    "Accessible Theme",
+    "solarized"
   ],
   "scripts": {
     "publish": "vsce publish"
@@ -38,7 +39,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "skull-logo.jpg",
+  "icon": "skull.jpg",
   "contributes": {
     "themes": [
       {
