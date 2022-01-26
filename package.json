@@ -60,7 +60,7 @@
       {
         "label": "cosmicsarthak Light",
         "uiTheme": "vs",
-        "path": "./themes/cosmicsarthak-light.jsonc"
+        "path": "./themes/cosmicsarthak-light.json"
       }
     ]
   }
