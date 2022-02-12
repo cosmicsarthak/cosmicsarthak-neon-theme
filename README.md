@@ -16,13 +16,13 @@
 - [Open VSX Registry](https://open-vsx.org/extension/cosmicsarthak/cosmicsarthak-neon-theme)
 
 This theme has 4 options:
+
 - cosmicsarthak <strong>Dark</strong>
 - cosmicsarthak <strong>Neon</strong>
 - cosmicsarthak <strong>Light</strong>
 - cosmicsarthak Night Owl(inspired by Sarah Drasner's <u>Night Owl Theme</u>)
 
 ---
-
 
 <h2 align="center">
   cosmicsarthak Dark
@@ -47,7 +47,6 @@ This theme has 4 options:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73431135/153640754-2d66cd28-423f-4579-a592-d4fa29691e35.png" alt="C++ Preview">
 </p>
-
 
 ---
 
@@ -83,9 +82,8 @@ This theme has 4 options:
 
 - Javascript Preview
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73431135/135931370-64bc2112-2fff-4c78-9443-7646d06a5ef9.png" alt="Javascript Preview">
-</p>![Screenshot_react js - demo - Visual Studio Code_1](https://user-images.githubusercontent.com/73431135/153641541-42916050-4392-4a92-8733-ed73487a5166.png)
-
+<img src="https://user-images.githubusercontent.com/73431135/153641541-42916050-4392-4a92-8733-ed73487a5166.png" alt="Javascript Preview">
+</p>
 
 - C++ & Teminal
 <p align="center">
@@ -96,18 +94,15 @@ This theme has 4 options:
 <img src="https://user-images.githubusercontent.com/73431135/153641814-551cc66d-ad7f-4377-845d-1eb100752863.png" alt="C++ & Teminal Preview">
 </p>
 
-
 - Java Preview
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73431135/153641457-8d80f8b2-1a5c-4277-b6e8-39087b1b894f.png" alt="Java Preview">
 </p>
 
-
 - Typescript Preview
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73431135/153642166-5c729917-aa53-4b09-9215-21df661974cf.png" alt="Typescript Preview">
 </p>
-
 
 ## Credits
 
