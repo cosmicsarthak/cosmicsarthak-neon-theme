@@ -50,7 +50,7 @@ int main()
         int ans = 1, tempo;
 
         cerr << s << endl;
-
+        cout << " what do you want?? " << endl;
         int it = 0;
         for (int i = 0; i < k; i++)
         {

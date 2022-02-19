@@ -4,6 +4,7 @@
   "semanticHighlighting": false,
   "colors": {
     "contrastBorder": "#122d42",
+    "contrastActiveBorder": "#122d38",
     "focusBorder": "#122d42",
     "foreground": "#9AB3C1",
     "widget.shadow": "#010D18",
@@ -82,20 +83,28 @@
     "editorLineNumber.activeForeground": "#C5E4FD",
     "editorCursor.foreground": "#ffff00",
     "terminalCursor.foreground": "#ffff00",
-    "editor.selectionBackground": "#7A3939",
-    "editor.selectionHighlightBackground": "#5f7e9779",
-    "editor.inactiveSelectionBackground": "#7e57c25a",
-    "editor.wordHighlightBackground": "#f6bbe533",
-    "editor.wordHighlightStrongBackground": "#e2a2f433",
-    "editor.findMatchBackground": "#5f7e9779",
-    "editor.findMatchHighlightBackground": "#1085bb5d",
-    "editor.findRangeHighlightBackground": null,
+    "editor.selectionBackground": "#0009", // #0009   #5f7e9722
+    "editor.selectionForeground": "#fff",
+    "editor.selectionHighlightBackground": "#5f7e9701",
+    "editor.selectionHighlightBorder": "#7d7d7d",
+    "editor.inactiveSelectionBackground": "#5f7e9718",
+    "editor.wordHighlightBackground": "#f6bbe506",
+    "editor.wordHighlightStrongBackground": "#e2a2f406",
+    "editor.wordHighlightBorder": "#7d7d7d",
+    "editor.wordHighlightStrongBorder": "#7d7d7d",
+    "editor.findMatchBackground": "#5f7e9701",
+    "editor.findMatchBorder": "#7d7d7d",
+    "editor.findMatchHighlightBorder": "#7d7d7d",
+    "editor.findRangeHighlightBorder": "#00325A",
+    "editor.findMatchHighlightBackground": "#5f7e9701",
+    "editor.findRangeHighlightBackground": "#0009",
     "editor.hoverHighlightBackground": "#7e57c25a",
     "editor.lineHighlightBackground": "#0003",
     "editor.lineHighlightBorder": "#00325A",
     "editorLink.activeForeground": null,
-    "editor.rangeHighlightBackground": "#7e57c25a",
-    "editorWhitespace.foreground": null,
+    "editor.rangeHighlightBackground": "#0009",
+    "editor.rangeHighlightBorder": "#00325A",
+    "editorWhitespace.foreground": "#5f7e9718",
     "editorIndentGuide.background": "#5e81ce12",
     "editorIndentGuide.activeBackground": "#7E97AC",
     "editorRuler.foreground": "#5e81ce52",
@@ -569,7 +578,7 @@
       "name": "Punctuation Definition String",
       "scope": "punctuation.definition.string",
       "settings": {
-        "foreground": "#00FFF0"
+        "foreground": "#00FF38"
       }
     },
     {
@@ -1801,6 +1810,16 @@
       ],
       "settings": {
         "foreground": "#FFF500"
+      }
+    },
+    {
+      "name": "C++ Operators e.g. `bitwise << and >>`",
+      "scope": [
+        "entity.name.function.operator.cpp",
+        "entity.name.function.operator.member.cpp"
+      ],
+      "settings": {
+        "foreground": "#00FF38"
       }
     },
     {
